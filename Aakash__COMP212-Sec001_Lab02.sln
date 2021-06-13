@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aakash_Exercise01", "Aakash_Exercise01\Aakash_Exercise01.csproj", "{6E936A0B-D89A-4573-8632-DFC4545D129F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aakash_Exercise02", "Aakash_Exercise02\Aakash_Exercise02.csproj", "{852F146D-EA09-45B2-A924-CD2A8FCCBC00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6E936A0B-D89A-4573-8632-DFC4545D129F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E936A0B-D89A-4573-8632-DFC4545D129F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E936A0B-D89A-4573-8632-DFC4545D129F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852F146D-EA09-45B2-A924-CD2A8FCCBC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F146D-EA09-45B2-A924-CD2A8FCCBC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F146D-EA09-45B2-A924-CD2A8FCCBC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F146D-EA09-45B2-A924-CD2A8FCCBC00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
